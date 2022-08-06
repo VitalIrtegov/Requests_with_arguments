@@ -28,11 +28,22 @@ int main() {
             respons += it.first + "=" + it.second + "&";
         }
         respons.erase(std::prev(respons.end()));
-        //std::cout << respons << std::endl;
+
         cpr::Response r = cpr::Get(cpr::Url("http://httpbin.org/get" + respons));
         std::cout << r.text << std::endl;
-    } else if (key == "post") {
 
+    } else if (key == "post") {
+        std::initializer_list<cpr::Pair> pair;
+        cpr::Payload payload(pair);
+
+        std::map<std::string, std::string>::const_iterator it = arguments.begin();
+        for (auto it : arguments) {
+            cpr::Pair pairTemp = {it.first, it.second};
+            payload.Add(pairTemp);
+        }
+
+        cpr::Response r = cpr::Post(cpr::Url("http://httpbin.org/post"), payload);
+        std::cout << r.text << std::endl;
     }
 
     return 0;
