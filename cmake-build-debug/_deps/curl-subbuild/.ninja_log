@@ -1,0 +1,21 @@
+# ninja log v5
+11560	11740	6814889612385134	C:/Users/Vital/CLionProjects/Requests_with_arguments/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-build	270242a097e2b388
+1	166	6814889496654307	curl-populate-prefix/src/curl-populate-stamp/curl-populate-mkdir	41e675601ec27418
+10619	10828	6814889603259543	curl-populate-prefix/src/curl-populate-stamp/curl-populate-update	69aba25075cb9976
+1	166	6814889496654307	C:/Users/Vital/CLionProjects/Requests_with_arguments/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-mkdir	41e675601ec27418
+167	10618	6814889601005557	curl-populate-prefix/src/curl-populate-stamp/curl-populate-download	48e05a441b642a56
+167	10618	6814889601005557	C:/Users/Vital/CLionProjects/Requests_with_arguments/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-download	48e05a441b642a56
+10619	10828	6814889603259543	C:/Users/Vital/CLionProjects/Requests_with_arguments/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-update	69aba25075cb9976
+10828	11310	6814889607996843	curl-populate-prefix/src/curl-populate-stamp/curl-populate-patch	143d9986bee3f50a
+11994	12171	6814889616693588	curl-populate-prefix/src/curl-populate-stamp/curl-populate-test	f00ddfb6c994584d
+10828	11310	6814889607996843	C:/Users/Vital/CLionProjects/Requests_with_arguments/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-patch	143d9986bee3f50a
+11310	11560	6814889610579952	curl-populate-prefix/src/curl-populate-stamp/curl-populate-configure	fa0a1f687f2725e1
+11310	11560	6814889610579952	C:/Users/Vital/CLionProjects/Requests_with_arguments/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-configure	fa0a1f687f2725e1
+11560	11740	6814889612385134	curl-populate-prefix/src/curl-populate-stamp/curl-populate-build	270242a097e2b388
+11740	11993	6814889614898382	curl-populate-prefix/src/curl-populate-stamp/curl-populate-install	cc953c53384b04e8
+11740	11993	6814889614898382	C:/Users/Vital/CLionProjects/Requests_with_arguments/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-install	cc953c53384b04e8
+12172	12525	6814889620194226	curl-populate-prefix/src/curl-populate-stamp/curl-populate-done	b30daf83d4f45a9b
+11994	12171	6814889616693588	C:/Users/Vital/CLionProjects/Requests_with_arguments/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-test	f00ddfb6c994584d
+12172	12525	6814889620194226	CMakeFiles/curl-populate-complete	b30daf83d4f45a9b
+12172	12525	6814889620194226	C:/Users/Vital/CLionProjects/Requests_with_arguments/cmake-build-debug/_deps/curl-subbuild/CMakeFiles/curl-populate-complete	b30daf83d4f45a9b
+12172	12525	6814889620194226	C:/Users/Vital/CLionProjects/Requests_with_arguments/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-done	b30daf83d4f45a9b

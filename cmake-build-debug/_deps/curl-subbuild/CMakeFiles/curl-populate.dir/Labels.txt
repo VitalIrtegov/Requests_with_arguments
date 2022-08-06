@@ -1,0 +1,14 @@
+# Target labels
+ curl-populate
+# Source files and their labels
+C:/Users/Vital/CLionProjects/Requests_with_arguments/cmake-build-debug/_deps/curl-subbuild/CMakeFiles/curl-populate
+C:/Users/Vital/CLionProjects/Requests_with_arguments/cmake-build-debug/_deps/curl-subbuild/CMakeFiles/curl-populate.rule
+C:/Users/Vital/CLionProjects/Requests_with_arguments/cmake-build-debug/_deps/curl-subbuild/CMakeFiles/curl-populate-complete.rule
+C:/Users/Vital/CLionProjects/Requests_with_arguments/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-build.rule
+C:/Users/Vital/CLionProjects/Requests_with_arguments/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-configure.rule
+C:/Users/Vital/CLionProjects/Requests_with_arguments/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-download.rule
+C:/Users/Vital/CLionProjects/Requests_with_arguments/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-install.rule
+C:/Users/Vital/CLionProjects/Requests_with_arguments/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-mkdir.rule
+C:/Users/Vital/CLionProjects/Requests_with_arguments/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-patch.rule
+C:/Users/Vital/CLionProjects/Requests_with_arguments/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-test.rule
+C:/Users/Vital/CLionProjects/Requests_with_arguments/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-update.rule

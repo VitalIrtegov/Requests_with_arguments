@@ -1,0 +1,3 @@
+C:/Users/Vital/CLionProjects/Requests_with_arguments/cmake-build-debug/_deps/curl-subbuild/CMakeFiles/curl-populate.dir
+C:/Users/Vital/CLionProjects/Requests_with_arguments/cmake-build-debug/_deps/curl-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/Vital/CLionProjects/Requests_with_arguments/cmake-build-debug/_deps/curl-subbuild/CMakeFiles/rebuild_cache.dir
